@@ -1,0 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Spectral:ital,wght@1,200;1,300;1,400&display=swap");
+.owl-theme .owl-dots .owl-dot span {
+  background: rgb(255, 69, 0, 0.5) !important;
+}
+.owl-theme .owl-dots .owl-dot.active span {
+  background: rgb(255, 69, 0) !important;
+}
